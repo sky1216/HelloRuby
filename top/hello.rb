@@ -1,3 +1,3 @@
 
-p "HelloHello, Ruby!"
+p "Hello, Ruby!"
 
